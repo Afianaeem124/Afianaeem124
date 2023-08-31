@@ -4,7 +4,9 @@
 <img align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afianaeem124&label=Profile%20views&color=0e75b6&style=flat" alt="afianaeem124" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce App**
+- 🔭  I am currently enrolled in BSCS at **UBIT'24.**
+  
+- I am fervently exploring the dynamic realms of mobile development and AI.
 
 - 🌱 I’m currently learning **Mobile App Development using Flutter.**
 
