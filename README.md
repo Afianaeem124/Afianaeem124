@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Syeda Afia Naeem</h1>
 ![logo](https://github.com/Afianaeem124/Afianaeem124/blob/main/WhatsApp%20Image%202023-08-31%20at%209.58.17%20PM.jpeg)
+<h1 align="center">Hi 👋, I'm Syeda Afia Naeem</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 <img align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afianaeem124&label=Profile%20views&color=0e75b6&style=flat" alt="afianaeem124" /> </p>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter or any tech-related stuff.**
 
-- 📫 How to reach me **afianaeem785@gmail.com**
+- 📫 How to reach me **afianaeem80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
